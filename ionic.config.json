@@ -1,0 +1,7 @@
+{
+  "name": "App3ds",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
